@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Branch" max_length="40" name="x_58872_needit_u_branch" sizeclass="0" type="collection">
+        <element label="Branch code" max_length="40" name="branch_code" type="integer"/>
+        <element label="Manager" mandatory="true" max_length="50" name="branch_manager" type="string"/>
+    </element>
+</database>
